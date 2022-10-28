@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "277980207449",
+    "project_id": "fcrud-a3101",
+    "storage_bucket": "fcrud-a3101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277980207449:android:acc570c5b3afa8e104d448",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277980207449-j9kc3kh8te0v4vn9o520c60h9er4mji1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyakok84P7laNJ8gc7Lmw-V0MNyo56wrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277980207449-j9kc3kh8te0v4vn9o520c60h9er4mji1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
